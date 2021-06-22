@@ -15,8 +15,10 @@
 ### Let's create a shopping list
 - Syntax for list is [] - to declare : name_of_list = [" "," "]
 
+```
 shopping_list = ["apples", "eggs", "chocolate", "tea", "bread"]
-`print(shopping_list)
+print(shopping_list)
+```
 
 - Checking the type of data with type()
 `print(type(shopping_list ))
