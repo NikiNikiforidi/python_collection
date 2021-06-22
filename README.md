@@ -22,7 +22,7 @@ print(shopping_list)
 
 - Checking the type of data with type()
 ```
-print(type(shopping_list ))
+print(type(shopping_list))
 ```
 
 - How to access chocolate and bread using indexing
@@ -45,9 +45,9 @@ print(shopping_list)
  **Task: delete item on index 3 (3 methods)**
 
 ```
--shopping_list.pop(3) # if .pop() will delete last item
--del shopping_list[3]
--shopping_list.remove("tea")
+shopping_list.pop(3) # if .pop() will delete last item
+del shopping_list[3]
+shopping_list.remove("tea")
 
 print(shopping_list)
 ```
