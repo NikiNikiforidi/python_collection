@@ -21,7 +21,9 @@ print(shopping_list)
 ```
 
 - Checking the type of data with type()
-`print(type(shopping_list ))
+```
+print(type(shopping_list ))
+```
 
 - How to access chocolate and bread using indexing
 ```
